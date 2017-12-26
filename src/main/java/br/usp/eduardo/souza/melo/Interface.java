@@ -17,7 +17,7 @@ public class Interface {
 			result[3] = in.readLine();
 			System.out.println("Digite 1 para mutacao tradicional e 2 para mutacao dirigida:");
 			result[4] = in.readLine();
-			System.out.println("Escolha um número equivalente ao tipo de crossover:\n1-Um ponto\n2-Dois pontos\n3-Uniforme");
+			System.out.println("Escolha um numero equivalente ao tipo de crossover:\n1-Um ponto\n2-Dois pontos\n3-Uniforme");
 			result[5] = in.readLine();
 			System.out.println("Digite 1 para selecao por roleta e 2 para selecao por torneio:");
 			result[6] = in.readLine();

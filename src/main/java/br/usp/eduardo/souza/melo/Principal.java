@@ -7,8 +7,8 @@ public class Principal {
 	 */
 	public static void main(String[] args) {
 		/**
-		 * Quantidade de gerações Tipo do problema Quantidade de cromossomos
-		 * Tipo de Mutação Tipo de Crossover Taxa de Mutacao
+		 * Quantidade de geraï¿½ï¿½es Tipo do problema Quantidade de cromossomos
+		 * Tipo de Mutaï¿½ï¿½o Tipo de Crossover Taxa de Mutacao
 		 */
 
 		Interface inter = new Interface();
